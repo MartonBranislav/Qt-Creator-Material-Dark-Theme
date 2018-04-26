@@ -1,4 +1,4 @@
-# Qt-Creator-Material-Dark-Theme
+# Qt Creator Material Dark Theme
 
 ## How to install
 
